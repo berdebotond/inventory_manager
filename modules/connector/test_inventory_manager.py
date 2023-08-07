@@ -1,5 +1,4 @@
-import pytest
-from unittest.mock import MagicMock, patch
+
 from modules.connector.Inventory_manager import InventoryDatabase
 import pytest
 from unittest.mock import MagicMock, patch
